@@ -20,7 +20,7 @@ public:
 };
 
 int main() {
-    Estudiante e1("MARCOS2026");
+    Estudiante e1("E2026002");
     e1.leer();
     return 0;
 }
