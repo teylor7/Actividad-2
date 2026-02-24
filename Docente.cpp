@@ -1,3 +1,4 @@
+//segundo comentarios
 #include "Persona.cpp"
 #include <iostream>
 class Docente : public Persona {
