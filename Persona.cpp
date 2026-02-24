@@ -1,3 +1,4 @@
+// comentario de cambios 
 #include <iostream>
 using namespace std;
 class Persona{
@@ -23,4 +24,5 @@ class Persona{
  	void leer();
  	void actualizar();
  	void borrar();
+ 	
 };
